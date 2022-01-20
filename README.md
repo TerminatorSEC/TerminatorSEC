@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TerminatorSEC
+- 👀 I’m interested in hack and security
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on a good team
+- I was started programming when I was child.
+- I have been python programmer for 1 year.
